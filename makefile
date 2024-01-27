@@ -2,4 +2,4 @@ debug:
 	go run .
 
 release:
-	go build
+	go build -ldflags "-s -w"
