@@ -112,8 +112,8 @@ Each versions have very minor differences in the output HTML, based on the nativ
 
 ### See also
 
-[site-gen-c](https://github.com/keyle/site-gen-c)
-[site-gen-go](https://github.com/keyle/site-gen-go)
-[site-gen-rust](https://github.com/keyle/site-gen-rust)
-[site-gen-dart](https://github.com/keyle/site-gen-dart)
-[site-gen-ocaml](https://github.com/keyle/site-gen-ocaml)
+* [site-gen-c](https://github.com/keyle/site-gen-c)
+* [site-gen-go](https://github.com/keyle/site-gen-go)
+* [site-gen-rust](https://github.com/keyle/site-gen-rust)
+* [site-gen-dart](https://github.com/keyle/site-gen-dart)
+* [site-gen-ocaml](https://github.com/keyle/site-gen-ocaml)
